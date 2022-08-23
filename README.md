@@ -1,0 +1,4 @@
+- Hi, I’m Chrizman
+- I’m interested in Gaming and Motorsport
+- I’m currently learning Software Development at University
+- I'm currently leading a Formula Student Team
